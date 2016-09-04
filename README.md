@@ -1,1 +1,2 @@
-# advent_of_code
+# Solutions to the [Advent of Code Challenges](http://adventofcode.com/)
+This is a collection of solutions for the advent of codes coding challenges. The folders are fairly self explanatory. If you find any issues in my solutions, PLEASE, create an issue so I can capture your thought. Iron sharpens iron...
